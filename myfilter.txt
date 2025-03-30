@@ -4,8 +4,9 @@
 ! Expires: 6 hours
 ! License: CC0 (Public Domain
 
+||adjust.com^$app=com.microsoft.bing
 ||tse*.mm.bing.net^$media
-||bing.com/videos/search^$xmlhttprequest
+||bing.com/videos/^$app=com.microsoft.bing
 ||adnxs.com^$app=com.microsoft.bing
 ||googleadservices.com^$app=com.microsoft.bing
 ||popin.cc^$app=com.microsoft.bing
