@@ -3,11 +3,19 @@
 ! Last modified: 30 Mar 2025 10:03 JST
 ! Expires: 6 hours
 ! License: CC0 (Public Domain
+||prod-streaming-video-msn-com.akamaized.net^
 
 ||adjust.com^$app=com.microsoft.bing
+||adjust.net.in^$app=com.microsoft.bing
 ||tse*.mm.bing.net^$media
 ||bing.com/videos/^$app=com.microsoft.bing
+||4dex.io^$app=com.microsoft.bing
+||mp.4dex.io^$app=com.microsoft.bing
 ||adnxs.com^$app=com.microsoft.bing
+||d.socdm.com^$app=com.microsoft.bing
 ||googleadservices.com^$app=com.microsoft.bing
+||openx.net^$app=com.microsoft.bing
+||ib.openx.net^$app=com.microsoft.bing
+||rtb.openx.net^$app=com.microsoft.bing
 ||popin.cc^$app=com.microsoft.bing
 ||valuecommerce.com^$app=com.microsoft.bing
