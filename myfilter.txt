@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Title: test filter (oflow)
+! Last modified: 13 Mar 2025 00:00 JST
+! Expires: 6 hours
+! License: CC0 (Public Domain
+
+||tse*.mm.bing.net^$media
+||bing.com/videos/search^$xmlhttprequest
