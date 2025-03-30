@@ -6,3 +6,7 @@
 
 ||tse*.mm.bing.net^$media
 ||bing.com/videos/search^$xmlhttprequest
+||adnxs.com^$app=com.microsoft.bing
+||googleadservices.com^$app=com.microsoft.bing
+||popin.cc^$app=com.microsoft.bing
+||valuecommerce.com^$app=com.microsoft.bing
