@@ -8,6 +8,7 @@
 
 ||adjust.com^$app=com.microsoft.bing
 ||adjust.net.in^$app=com.microsoft.bing
+||app.adjust.world^$app=com.microsoft.bing
 ||tse*.mm.bing.net^$media
 ||bing.com/videos/^$app=com.microsoft.bing
 ||4dex.io^$app=com.microsoft.bing
@@ -20,3 +21,4 @@
 ||rtb.openx.net^$app=com.microsoft.bing
 ||popin.cc^$app=com.microsoft.bing
 ||valuecommerce.com^$app=com.microsoft.bing
+||sb.scorecardresearch.com^$app=com.microsoft.bing
