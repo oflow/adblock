@@ -3,7 +3,8 @@
 ! Last modified: 30 Mar 2025 10:20 JST
 ! Expires: 6 hours
 ! License: CC0 (Public Domain
-||prod-streaming-video-msn-com.akamaized.net^
+||prod-streaming-video-msn-com.akamaized.net^$app=com.microsoft.bing
+
 
 ||adjust.com^$app=com.microsoft.bing
 ||adjust.net.in^$app=com.microsoft.bing
