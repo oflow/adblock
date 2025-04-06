@@ -5,7 +5,7 @@
 ! License: CC0 (Public Domain
 ||prod-streaming-video-msn-com.akamaized.net^$app=com.microsoft.bing
 
-
+||*$media,$app=com.microsoft.bing
 ||adjust.com^$app=com.microsoft.bing
 ||adjust.net.in^$app=com.microsoft.bing
 ||app.adjust.world^$app=com.microsoft.bing
