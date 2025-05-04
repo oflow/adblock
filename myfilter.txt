@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: test filter (oflow)
-! Last modified: 4 Apr 2025 10:20 JST
+! Last modified: 2 May 2025 10:20 JST
 ! Expires: 6 hours
 ! License: CC0 (Public Domain
 ||prod-streaming-video-msn-com.akamaized.net^$app=com.microsoft.bing
 
 ||*$media,app=com.microsoft.bing
+||*$media,app=com.amazon.mShop.android.shopping
 ||adjust.com^$app=com.microsoft.bing
 ||adjust.net.in^$app=com.microsoft.bing
 ||app.adjust.world^$app=com.microsoft.bing
